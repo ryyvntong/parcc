@@ -1,0 +1,2 @@
+# parcc
+PARCC is a easy-to-use, fully integrated Hamilton tourism app that conveys personalized activity suggestions based on weather and location data , display maps information to chosen locations, and direct users to the location. The front-end is built using react native, taking advantage of various libraries such as Axios, React-Navigation, and React-Redux. The back-end is built using Python and is hosted with Amazon Web Services. This was a submission for Deltahacks 2020.
